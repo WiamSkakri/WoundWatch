@@ -87,9 +87,4 @@ Upload a wound image and get:
 * Model accuracy may vary depending on dataset labeling and domain variability.
 * Clinical validation is required for medical deployment.
 
-## 👨‍💻 Author
-
-Wiam Skakri
-@wiamskakri
-wiamskakri.com
 
